@@ -5,8 +5,8 @@
   "main": "server.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node backend/server.js",
-    "server": "nodemon backend/server.js"
+    "start": "node index.js",
+    "server": "nodemon index.js"
   },
   "author": "Dikshant",
   "license": "MIT",
